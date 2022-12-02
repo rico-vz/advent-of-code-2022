@@ -6,6 +6,7 @@
 [![Template](https://badgen.net/badge/Template/aocrunner/blue)](https://github.com/caderek/aocrunner)
 
 # 🎄 Advent of Code 2022 🎄
+[![AOC22](https://github.com/rico-vz/advent-of-code-2022/raw/main/img/header.png)](https://adventofcode.com/2022)
 
 ## Solutions
 
