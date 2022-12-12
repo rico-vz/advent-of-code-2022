@@ -21,7 +21,9 @@
       "part1": {
         "solved": true,
         "result": "11666",
-        "attempts": ["13796"],
+        "attempts": [
+          "13796"
+        ],
         "time": 1.8558
       },
       "part2": {
@@ -33,16 +35,16 @@
     },
     {
       "part1": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "7824",
         "attempts": [],
-        "time": null
+        "time": 2.8212
       },
       "part2": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "2798",
         "attempts": [],
-        "time": null
+        "time": 2.0904
       }
     },
     {
